@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dewbambs
-- 👀 I’m interested in collaborating with people who share interests in biometric systems, dart libraries. 
+- 👀 I’m interested in collaborating with people who share interests in biometric systems, dart/flutter open source projects. 
 - 🌱 I’m currently learning dart, flutter.
-- 💞️ I’m looking to collaborate on [sketch_book](www.google.com). 
 - 📫 Reach me at ritesh@cidroy.com
 
 <!---
